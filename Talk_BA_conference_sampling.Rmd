@@ -52,7 +52,6 @@ table {
 }
 ```
 
----
 ## Samples in psychology
 
 
