@@ -233,11 +233,11 @@ Limitations: descriptive project. Did not code claims on inference or generality
 ---
 ## Any Questions?
 
-[Preprint](https://osf.io/preprints/psyarxiv/2qfdb) ; [Longer talk](https://tvpollet.github.io/Talk_appearance_Durham_22/Talk_Durham_Body_Image_22.html#1)
+[Preprint](https://osf.io/preprints/psyarxiv/2qfdb) ; [Published paper](https://doi.org/10.1016/j.bodyim.2024.101714); [Longer talk](https://tvpollet.github.io/Talk_appearance_Durham_22/Talk_Durham_Body_Image_22.html#1)
 
 [http://tvpollet.github.io](http://tvpollet.github.io)
 
-X/Twitter: @tvpollet ; Bluesky: @tvpollet.bsky.social
+Bluesky: @tvpollet.bsky.social
 
 ```{r, out.width = "600px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/3ohzdRoOp1FUYbtGDu/giphy.gif")
